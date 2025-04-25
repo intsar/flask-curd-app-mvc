@@ -38,9 +38,9 @@ A simple **CRUD (Create, Read, Update, Delete)** web application built using **F
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/intsar/flask-crud-app.git
-cd flask-crud-app
-Update DB credentials in confir.py
+git clone https://github.com/intsar/flask-crud-app-mvc.git
+cd flask-crud-app-mvc
+Update DB credentials in database.py
 Create new table 
 CREATE TABLE users (
     id INT PRIMARY KEY AUTO_INCREMENT,
